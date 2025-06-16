@@ -1,0 +1,6 @@
+escargot
+fastapi
+uvicorn
+neo4j
+weaviate-client
+openai
